@@ -1,0 +1,16 @@
+{
+  "name": "xtube",
+  "version": "1.0.0",
+  "description": "a combination of X and Youtube",
+  "keywords": [
+    "youtubeClone",
+    "xClone"
+  ],
+  "license": "ISC",
+  "author": "Zahin Zawad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
